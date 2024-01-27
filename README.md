@@ -5,4 +5,4 @@ Born2BeRoot is a project that introduces students to the fundamentals of system 
 
 ## Project Structure
 The project repository contains a single Bash script:
-- **born2beroot.sh**: The main script that collects and displays system information.
+- **script.sh**: The main script that collects and displays system information.
