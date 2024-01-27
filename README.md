@@ -1,4 +1,8 @@
-# Born2BeRoot - System Information Script
+# Born2BeRoot
 
 ## Overview
-Born2BeRoot is a simple Bash script designed to provide basic system information. This script outputs essential details about the system, such as architecture, CPU information, memory usage, disk usage, CPU load, last boot time, and whether LVM (Logical Volume Manager) is in use.
+Born2BeRoot is a project that introduces students to the fundamentals of system administration on a Unix-based operating system, specifically Debian. The project involves creating a Bash script that gathers and presents essential system information.
+
+## Project Structure
+The project repository contains a single Bash script:
+- **born2beroot.sh**: The main script that collects and displays system information.
